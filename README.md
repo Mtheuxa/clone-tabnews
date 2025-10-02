@@ -1,1 +1,1 @@
-# clone-tabnews
+Projeto feito durante o Curso.dev ministrado po Felipe Dechamps. Aonde o intuito do projeto e fazer o site tabnews do absoluto zero. Com desafios durantes essas aulas aonde, eu acabei a primeira parte. Ao final do curso teremos o site identeco ao tabnews. E nao apenas copiando mais sim aprendendo e entendo cada conceito por tras da criação do mesmo.
